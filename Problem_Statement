@@ -1,0 +1,169 @@
+Virtual Internship Platform for Students
+
+1. Title
+
+Virtual Internship Platform for Students.
+
+2. Domain
+
+Education Technology (EdTech) / Internship Management System
+
+3. Who is the User?
+
+1. Student
+
+Register and log in
+
+Create and update profile
+
+Search and apply for internships
+
+View application status
+
+2. Company (Employer)
+
+Register and log in
+
+Post internship opportunities
+
+View student applications
+
+Accept or reject applications
+
+3. Admin
+
+Manage students and companies
+
+Approve company accounts
+
+Manage internship postings
+
+Monitor platform activities
+
+4. What Problem Are We Solving?
+
+Many students struggle to find internship opportunities because information is scattered across multiple websites and social media platforms. Companies also find it difficult to manage internship applications efficiently. This platform provides a single online system where students can search and apply for internships, while companies can post opportunities and manage applications. For example, a third-year engineering student can easily log in, upload a resume, apply for internships, and track the application status from one dashboard.
+
+5. Proposed Solution
+
+The application will provide a centralized platform for students, companies, and administrators.
+
+Key Features:
+
+Student registration and login
+
+Company registration and login
+
+Internship posting and management
+
+Search internships by title or location
+
+Online internship application
+
+Resume upload
+
+Application status tracking
+
+Admin dashboard for managing users and internships
+
+6. Core Entities / Database Tables
+
+1. Student
+
+2. Company
+
+3. Internship
+
+4. Application
+
+5. Admin
+
+6. Resume
+
+7. Skills
+
+8. Notification
+
+7. User Roles & Permissions
+
+* Admin
+
+Manage students
+
+Manage companies
+
+Approve or reject company accounts
+
+Manage internships
+
+View reports
+
+Remove invalid accounts
+
+
+* Student
+
+Register and log in
+
+Update profile
+
+Upload resume
+
+Search internships
+
+Apply for internships
+
+View application status
+
+* Company
+
+Register and log in
+
+Post internships
+
+Edit or delete internships
+
+View applicants
+
+Accept or reject applications
+
+8. Success Criteria
+
+A student should be able to register within 2 minutes.
+
+Students should be able to search and apply for an internship in under 1 minute.
+
+Companies should be able to post a new internship in less than 2 minutes.
+
+Admin should be able to manage users and internships through a single dashboard.
+
+The system should securely store and retrieve user information.
+
+9. Out of Scope
+
+The following features will not be included in this project:
+
+Online interview or video conferencing
+
+Real-time chat between students and companies
+
+AI-based internship recommendations
+
+Online internship certificate generation
+
+Payment gateway integration
+
+Mobile (Android/iOS) application
+
+Email/SMS notification service
+
+10. Chosen Track
+
+Java (Spring Boot)
+
+Frontend: HTML, CSS, JavaScript, Bootstrap
+Backend: Java (Spring Boot)
+Database: MySQL
+IDE: IntelliJ IDEA / Eclipse
+Build Tool: Maven
+Version Control: Git & GitHub
