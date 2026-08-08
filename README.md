@@ -1,0 +1,3 @@
+# Virtual Internship Platform for Students
+
+The **Virtual Internship Platform for Students** is a web-based application designed to help students discover and apply for internship opportunities through a centralized platform. The system allows students to register, log in securely, verify their accounts using OTP, browse available internships, submit applications, and track their application status. Companies or recruiters can manage internship opportunities and review student applications, while administrators can manage users, internships, and applications. The platform aims to simplify the internship process, improve communication between students and companies, and provide students with better opportunities to gain practical skills and industry experience.
